@@ -24,8 +24,7 @@ CodeAlpha_EDA/
 │   └── EDA_Titanic.ipynb        # Main analysis notebook
 │
 ├── requirements.txt             # Python dependencies
-├── README.md                    # Project documentation
-└── .gitignore                   # Git ignore file
+└── README.md                    # Project documentation
 ```
 
 ## 📈 Dataset Information
